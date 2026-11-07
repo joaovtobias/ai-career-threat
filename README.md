@@ -41,9 +41,25 @@ Funções operacionais e repetitivas, como Data Entry Clerk com Score de 92 e Ad
 
 Profissões que exigem presença física e habilidades manuais ou interpessoais Home Health Aide, Ironworker, Plumber possuem o menor índice de risco com Score 4.
 
+| title             | score |
+|-------------------|-------|
+| Home Health Aide  | 4     |
+| Ironworker        | 4     |
+| Plumber           | 4     |
+| Dental Hygienist  | 5     |
+| Phlebotomist      | 5     |
+| Craft Artist      | 5     |
+| Glazier           | 5     |
+| Mason             | 5     |
+| Flight Attendant  | 5     |
+| Massage Therapist | 5     |
+
 ## Tendência Salarial vs. Automação (declining_roles.csv):
 
 Cargos com tendência salarial em declínio e com índice de automação de subtarefas superior a 66% foram categorizados como "Automatizáveis".
+
+<img width="6000" height="3407" alt="dashboard_page-0001" src="https://github.com/user-attachments/assets/d3d4ae4c-6233-4137-8806-19cac5340676" />
+
 
 ## Maturidade x Adoção:
 
