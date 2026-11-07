@@ -75,6 +75,9 @@ main.ipynb: Notebook com todo o código (Python + SQL).
 
 riscoXtempo.png: Gráfico gerado mostrando a evolução do risco da profissão mais ameaçada ao longo do tempo (2025 a 2026).
 
+<img width="1920" height="1440" alt="riscoXtempo" src="https://github.com/user-attachments/assets/cffade97-f9e6-4658-9f6b-255390ce0882" />
+
+
 *.csv: Múltiplos arquivos contendo as bases tratadas e prontas para consumo em ferramentas de BI (ex: higher_risk_categories.csv, percentage_grow.csv, etc.).
 
 # Como Executar
