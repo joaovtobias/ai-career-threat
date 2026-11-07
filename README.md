@@ -24,6 +24,19 @@ Através de consultas SQL e cruzamentos no Pandas, os seguintes resultados foram
 
 Funções operacionais e repetitivas, como Data Entry Clerk com Score de 92 e Administrative Assistant com Score de 80, lideram o ranking de vulnerabilidade à automação.
 
+| title                    | score |
+|--------------------------|-------|
+| Data Entry Clerk         | 92    |
+| Administrative Assistant | 80    |
+| Telemarketer             | 77    |
+| Medical Transcriptionist | 75    |
+| Call Center Agent        | 73    |
+| Payroll Specialist       | 73    |
+| Receptionist             | 72    |
+| Content Writer           | 71    |
+| Tax Preparer             | 69    |
+| Contract Reviewer        | 69    |
+
 ## Cargos de Menor Risco (lower_risk_areas.csv):
 
 Profissões que exigem presença física e habilidades manuais ou interpessoais Home Health Aide, Ironworker, Plumber possuem o menor índice de risco com Score 4.
