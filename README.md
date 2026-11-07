@@ -64,7 +64,8 @@ Cargos com tendência salarial em declínio e com índice de automação de subt
 
 Listado os cargos que mais cresceram seu score entre 2025 e 2026.
 
-<img width="6000" height="3407" alt="percentage_grow_page-0001" src="https://github.com/user-attachments/assets/9216df0d-3e11-46db-9123-7d72715a6117" />
+<img width="6000" height="3407" alt="percentage_grow (1)_page-0001" src="https://github.com/user-attachments/assets/011c3545-df65-49c8-82d0-88729cc6473d" />
+
 
 ## Maturidade x Adoção:
 
